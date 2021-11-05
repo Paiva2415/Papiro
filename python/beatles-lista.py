@@ -22,4 +22,5 @@ print("\nStep 5:", beatles)
 
 
 # testing list legth
-print("The Fab", len(beatles))
+
+print ("\nALTERAÇÃO OK!!!")
